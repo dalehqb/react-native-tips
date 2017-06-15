@@ -4,3 +4,6 @@
  
  2.redex中文教程
  http://www.redux.org.cn
+
+ 3.react native vectors icon 搜索资源
+ http://ionicons.com/
